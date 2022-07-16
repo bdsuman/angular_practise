@@ -1,0 +1,7 @@
+.page_footer {
+  position: fixed;
+  bottom: 15px;
+  font-size:10pt;
+  text-align: center;
+  width: 100%;
+}
